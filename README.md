@@ -10,4 +10,4 @@ Launches the test runner in the interactive watch mode.
 
 ### `npm test --coverage`
 
-Check de tests coverage
+Check the tests coverage
